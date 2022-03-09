@@ -1,2 +1,3 @@
 # ML-NBA-Position
-Machine Learning for prediction of NBA players positions
+Machine Learning for predicting NBA players positions.
+Data obtained from Basketball Reference.
